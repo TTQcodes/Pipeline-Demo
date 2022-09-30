@@ -10,6 +10,8 @@ public class FirstPipelineApplication {
 		SpringApplication.run(FirstPipelineApplication.class, args);
 
 		System.out.println("My First Commit");
+
+		System.out.println("My First Commit Update WOOOOOOO");
 		
 	}
 
